@@ -2,9 +2,9 @@
 
 딥러닝 기반 실시간 쓰레기 분류와 사용자 참여형 위치 공유를 결합한 환경 실천 웹 플랫폼입니다.
 
-## 링크
+## 데모
 
-- [시연 영상](https://drive.google.com/file/d/1FFEUT9H_aKZxNnbs0dJ_nPtwOhthMTav/view?usp=sharing)
+[데모 영상 보기](https://drive.google.com/file/d/1FFEUT9H_aKZxNnbs0dJ_nPtwOhthMTav/view?usp=sharing)
 
 ## 프로젝트 소개
 
