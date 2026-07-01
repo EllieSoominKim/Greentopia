@@ -4,7 +4,6 @@
 
 ## 링크
 
-- [보고서 (PDF)](https://your-report-link-here)
 - [시연 영상](https://drive.google.com/file/d/1FFEUT9H_aKZxNnbs0dJ_nPtwOhthMTav/view?usp=sharing)
 
 ## 프로젝트 소개
