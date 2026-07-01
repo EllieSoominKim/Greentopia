@@ -46,18 +46,29 @@
 ## 폴더 구조
 
 ```
-src/
-├── data/              # Firebase 연동 로직, 퀴즈 데이터
-├── image/             # 정적 이미지 리소스
-├── pages/             # 페이지 단위 컴포넌트
-│   ├── Home.js
-│   ├── Detect.js       # 쓰레기 분류
-│   ├── Map.js           # 위치 공유
-│   ├── Quiz.js
-│   ├── QuizResult.js
-│   └── Ranking.js
-├── UserContext.js     # 사용자 정보/포인트 전역 상태
-└── App.js
+greentopia/
+├── public/                # 정적 파일 (index.html, favicon 등)
+├── src/
+│   ├── data/               # Firebase 연동 로직, 퀴즈 데이터
+│   │   ├── firebase.js
+│   │   ├── firebaseFunctions.js
+│   │   └── quizData.js
+│   ├── image/               # 정적 이미지 리소스
+│   ├── pages/               # 페이지 단위 컴포넌트
+│   │   ├── Home.js
+│   │   ├── Detect.js         # 쓰레기 분류
+│   │   ├── Map.js             # 위치 공유
+│   │   ├── Quiz.js
+│   │   ├── QuizResult.js
+│   │   └── Ranking.js
+│   ├── UserContext.js       # 사용자 정보/포인트 전역 상태
+│   └── App.js
+├── .gitignore
+├── package.json
+├── tailwind.config.js
+└── postcss.config.js
+
+# CRA 기본 생성 파일(App.css, index.js, reportWebVitals.js 등)은 생략했습니다.
 ```
 
 ## 실행 방법
